@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431482683 source:/home/isuru/sdl/Assignment/main.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
