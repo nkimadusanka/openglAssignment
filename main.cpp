@@ -3,7 +3,7 @@
 #include<GL/glu.h>
 
 //compiling flags -lGL -lGLU -lSDL
-
+// anushka uditha
 
 //static vars
 float angle = 0.0;
